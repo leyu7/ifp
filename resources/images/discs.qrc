@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="player 1">
+    <file>1_1_b.png</file>
+    <file>1_1_f.png</file>
+    <file>1_2_b.png</file>
+    <file>1_2_f.png</file>
+    <file>1_3_b.png</file>
+    <file>1_3_f.png</file>
+    <file>1_4_b.png</file>
+    <file>1_4_f.png</file>
+    <file>1_5_b.png</file>
+    <file>1_5_f.png</file>
+    <file>1_6_b.png</file>
+    <file>1_6_f.png</file>
+  </qresource>
+  <qresource prefix="player 2">
+    <file>2_1_b.png</file>
+    <file>2_1_f.png</file>
+    <file>2_2_b.png</file>
+    <file>2_2_f.png</file>
+    <file>2_3_b.png</file>
+    <file>2_3_f.png</file>
+    <file>2_4_b.png</file>
+    <file>2_4_f.png</file>
+    <file>2_5_b.png</file>
+    <file>2_5_f.png</file>
+    <file>2_6_b.png</file>
+    <file>2_6_f.png</file>
+  </qresource>
+</RCC>
