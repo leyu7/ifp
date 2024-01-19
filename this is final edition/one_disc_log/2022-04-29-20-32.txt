@@ -1,0 +1,21 @@
+Round 1:  Dice-3  (P1:3  P2:6)
+Player 1 PROTECTED own disc.
+Round 2:  Dice-2  (P1:3  P2:6)
+Player 2 chose PASS.
+Round 3:  Dice-2  (P1:3  P2:6)
+Player 1 chose PASS.
+Round 4:  Dice-3  (P1:3  P2:6)
+Player 2 UNPROTECTED Player 1's disc.
+Round 5:  Dice-4  (P1:3  P2:6)
+Player 1 chose PASS.
+Round 6:  Dice-4  (P1:3  P2:6)
+Player 2 chose PASS.
+Round 7:  Dice-3  (P1:3  P2:6)
+Player 1 PROTECTED own disc.
+Round 8:  Dice-6  (P1:3  P2:6)
+Player 2 PROTECTED own disc.
+Round 9:  Dice-3  (P1:3  P2:6)
+Player 1 chose PASS.
+Round 10:  Dice-4  (P1:3  P2:6)
+Player 2 chose PASS.
+Round 11:  Dice-1  (P1:3  P2:6)
