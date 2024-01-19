@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="img">
+    <file>help1.png</file>
+    <file>help6.png</file>
+    <file>peruke_1.png</file>
+    <file>1_button.png</file>
+    <file>2_button.png</file>
+    <file>3_button.png</file>
+    <file>4_button.png</file>
+    <file>5_button.png</file>
+    <file>6_button.png</file>
+    <file>choose_num_ico.png</file>
+  </qresource>
+</RCC>

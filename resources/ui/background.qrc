@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>signup_button.png</file>
+    <file>background_70.png</file>
+    <file>turn1_1.png</file>
+    <file>congrats.png</file>
+    <file>turn2.png</file>
+    <file>restart.png</file>
+    <file>turn1.png</file>
+    <file>PLAYER2.png</file>
+    <file>pass1.png</file>
+    <file>pass2.png</file>
+    <file>PLAYER1.png</file>
+    <file>exit.png</file>
+    <file>PLAYER2.png</file>
+    <file>choice_six.png</file>
+    <file>choice_one.png</file>
+    <file>help.png</file>
+    <file>quit.png</file>
+    <file>background_choose.png</file>
+    <file>timer.png</file>
+    <file>cancel_button.png</file>
+    <file>signin_button.png</file>
+    <file>signin_icon.png</file>
+    <file>startbutton.png</file>
+    <file>icon.png</file>
+    <file>background.png</file>
+    <file>background_50.png</file>
+  </qresource>
+</RCC>
