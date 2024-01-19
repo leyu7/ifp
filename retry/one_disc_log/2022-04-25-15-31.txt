@@ -1,0 +1,6 @@
+Round 1:  Dice number-6
+Player 1 chose PASS.
+Round 2:  Dice number-5
+Player 2 CAPTURED Player 1's disc.
+WINNER: Player 2
+GAME ENDED.

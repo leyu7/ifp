@@ -1,0 +1,3 @@
+Player 2 CAPTURED Player 1's disc.
+WINNER: Player 2
+GAME ENDED.

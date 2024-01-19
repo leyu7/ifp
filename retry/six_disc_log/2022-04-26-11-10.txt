@@ -1,0 +1,4 @@
+Round 1:  Dice-['3', '3', '3']  (P1:0  P2:0)
+Player 1 PROTECTED own disc.(Row-2 Num-3)
+Player 1 CAPTURED Player 2's disc.(Row-2 Num-3)
+TIME'S UP. Player 1's turn finished.

@@ -1,0 +1,20 @@
+Round 1:  Dice-5  (P1:3  P2:2)
+Player 1 chose PASS.
+Round 2:  Dice-3  (P1:3  P2:2)
+Player 2 CAPTURED Player 1's disc.
+WINNER: Player 2
+GAME ENDED.Round 1:  Dice-2  (P1:5  P2:1)
+Player 1 chose PASS.
+Round 2:  Dice-1  (P1:5  P2:1)
+Player 2 PROTECTED own disc.
+Round 3:  Dice-1  (P1:5  P2:1)
+Player 1 UNPROTECTED Player 2's disc.
+Round 4:  Dice-3  (P1:5  P2:1)
+Player 2 chose PASS.
+Round 5:  Dice-1  (P1:5  P2:1)
+TIME'S UP. Player 1's turn finished.Round 6:  Dice-4  (P1:5  P2:1)
+Player 2 chose PASS.
+Round 7:  Dice-1  (P1:5  P2:1)
+Player 1 CAPTURED Player 2's disc.
+WINNER: Player 1
+GAME ENDED.
