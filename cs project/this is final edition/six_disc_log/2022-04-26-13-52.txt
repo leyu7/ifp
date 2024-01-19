@@ -1,0 +1,4 @@
+Round 1:  Dice-['5', '1', '3']  (P1:0  P2:0)
+Player 1 PROTECTED own disc.(Row-2 Num-5)
+Player 1 UNPROTECTED own disc.(Row-1 Num-3)
+Player 1 CAPTURED Player 2's disc.(Row-2 Num-1)

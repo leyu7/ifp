@@ -1,0 +1,12 @@
+Round 1:  Dice-4  (P1:6  P2:2)
+Player 1 chose PASS.
+Round 2:  Dice-4  (P1:6  P2:2)
+Player 2 chose PASS.
+Round 3:  Dice-3  (P1:6  P2:2)
+Player 1 chose PASS.
+Round 4:  Dice-1  (P1:6  P2:2)
+Player 2 chose PASS.
+Round 5:  Dice-2  (P1:6  P2:2)
+Player 1 CAPTURED Player 2's disc.
+WINNER: Player 1
+GAME ENDED.

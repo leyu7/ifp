@@ -1,0 +1,6 @@
+Round 1:  Dice-['1', '3', '6']  (P1:0  P2:0)
+Player 1 CAPTURED Player 2's disc.(Row-2 Num-3)
+TIME'S UP. Player 1's turn finished.
+Round 2:  Dice-['1', '6', '3']  (P1:3  P2:0)
+Player 2 UNPROTECTED Player 1's disc.(Row-1 Num-6)
+TIME'S UP. Player 2's turn finished.

@@ -1,0 +1,4 @@
+Round 1:  Dice-1  (P1:6  P2:1)
+Player 1 CAPTURED Player 2's disc.
+WINNER: Player 1
+GAME ENDED.

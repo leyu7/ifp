@@ -1,0 +1,141 @@
+Round 1:  Dice-['4', '2', '4']  (P1:0  P2:0)
+TIME'S UP. Player 1's turn finished.
+Round 2:  Dice-['3', '3', '6']  (P1:0  P2:0)
+Player 2 CAPTURED Player 1's disc.(Row-2 Num-3)
+TIME'S UP. Player 2's turn finished.
+Round 3:  Dice-['4', '1', '5']  (P1:0  P2:3)
+Player 1 UNPROTECTED Player 2's disc.(Row-1 Num-4)
+Player 1 CAPTURED Player 2's disc.(Row-2 Num-1)
+Player 1 PROTECTED own disc.(Row-2 Num-5)
+Round 4:  Dice-['4', '4', '3']  (P1:1  P2:3)
+Player 2 UNPROTECTED Player 1's disc.(Row-1 Num-4)
+Player 2 UNPROTECTED own disc.(Row-1 Num-3)
+Player 2 CAPTURED Player 1's disc.(Row-1 Num-4)
+Round 5:  Dice-['1', '4', '2']  (P1:1  P2:7)
+Player 1 PROTECTED own disc.(Row-2 Num-4)
+Player 1 CAPTURED Player 2's disc.(Row-2 Num-2)
+Player 1 UNPROTECTED Player 2's disc.(Row-1 Num-1)
+Round 6:  Dice-['2', '2', '5']  (P1:3  P2:7)
+Player 2 UNPROTECTED Player 1's disc.(Row-1 Num-5)
+Player 2 CAPTURED Player 1's disc.(Row-2 Num-2)
+Player 2 UNPROTECTED Player 1's disc.(Row-1 Num-2)
+Round 7:  Dice-['5', '2', '6']  (P1:3  P2:9)
+Player 1 PROTECTED own disc.(Row-2 Num-6)
+Player 1 CAPTURED Player 2's disc.(Row-2 Num-5)
+Player 1 UNPROTECTED Player 2's disc.(Row-1 Num-2)
+TIME'S UP. Player 2's turn finished.
+Round 9:  Dice-['2', '6', '1']  (P1:8  P2:9)
+Player 1 PROTECTED own disc.(Row-1 Num-2)
+Player 1 CAPTURED Player 2's disc.(Row-1 Num-1)
+Player 1 CAPTURED Player 2's disc.(Row-2 Num-6)
+Round 10:  Dice-['1', '4', '2']  (P1:15  P2:9)
+Player 2 CAPTURED Player 1's disc.(Row-2 Num-1)
+Player 2 UNPROTECTED Player 1's disc.(Row-1 Num-2)
+Player 2 PROTECTED own disc.(Row-1 Num-4)
+Round 11:  Dice-['3', '6', '4']  (P1:15  P2:10)
+Player 1 UNPROTECTED Player 2's disc.(Row-1 Num-6)
+Player 1 CAPTURED Player 2's disc.(Row-2 Num-4)
+Player 1 CAPTURED Player 2's disc.(Row-1 Num-3)
+Round 12:  Dice-['6', '3', '6']  (P1:22  P2:10)
+Player 2 UNPROTECTED Player 1's disc.(Row-1 Num-6)
+Player 2 CAPTURED Player 1's disc.(Row-1 Num-6)
+Player 2 UNPROTECTED Player 1's disc.(Row-1 Num-3)
+Round 13:  Dice-['6', '6', '6']  (P1:22  P2:16)
+Player 1 CAPTURED Player 2's disc.(Row-1 Num-6)
+Player 1 chose PASS.
+Round 14:  Dice-['2', '6', '4']  (P1:28  P2:16)
+Player 2 PROTECTED own disc.(Row-1 Num-2)
+Player 2 UNPROTECTED Player 1's disc.(Row-2 Num-6)
+Player 2 UNPROTECTED Player 1's disc.(Row-2 Num-4)
+Round 15:  Dice-['3', '5', '2']  (P1:28  P2:16)
+Player 1 PROTECTED own disc.(Row-1 Num-3)
+Player 1 UNPROTECTED Player 2's disc.(Row-1 Num-5)
+Player 1 UNPROTECTED Player 2's disc.(Row-1 Num-2)
+Round 16:  Dice-['5', '6', '5']  (P1:28  P2:16)
+Player 2 CAPTURED Player 1's disc.(Row-1 Num-5)
+Player 2 CAPTURED Player 1's disc.(Row-2 Num-6)
+Player 2 PROTECTED own disc.(Row-1 Num-5)
+Round 17:  Dice-['2', '6', '6']  (P1:28  P2:27)
+Player 1 CAPTURED Player 2's disc.(Row-1 Num-2)
+Player 1 chose PASS.
+Round 18:  Dice-['1', '2', '2']  (P1:30  P2:27)
+Player 2 CAPTURED Player 1's disc.(Row-1 Num-2)
+Player 2 UNPROTECTED Player 1's disc.(Row-1 Num-1)
+Player 2 chose PASS.
+Round 19:  Dice-['5', '1', '6']  (P1:30  P2:29)
+Player 1 UNPROTECTED Player 2's disc.(Row-1 Num-5)
+Player 1 PROTECTED own disc.(Row-1 Num-1)
+Player 1 chose PASS.
+Round 20:  Dice-['3', '6', '2']  (P1:30  P2:29)
+Player 2 UNPROTECTED Player 1's disc.(Row-1 Num-3)
+Player 2 chose PASS.
+Round 21:  Dice-['4', '4', '6']  (P1:30  P2:29)
+Player 1 PROTECTED own disc.(Row-2 Num-4)
+Player 1 UNPROTECTED Player 2's disc.(Row-1 Num-4)
+Player 1 chose PASS.
+Round 22:  Dice-['5', '4', '5']  (P1:30  P2:29)
+Player 2 PROTECTED own disc.(Row-1 Num-4)
+Player 2 UNPROTECTED Player 1's disc.(Row-2 Num-5)
+Player 2 CAPTURED Player 1's disc.(Row-2 Num-5)
+Round 23:  Dice-['5', '1', '1']  (P1:30  P2:34)
+Player 1 CAPTURED Player 2's disc.(Row-1 Num-5)
+Player 1 chose PASS.
+Round 24:  Dice-['1', '2', '4']  (P1:35  P2:34)
+Player 2 UNPROTECTED Player 1's disc.(Row-2 Num-4)
+Player 2 UNPROTECTED Player 1's disc.(Row-1 Num-1)
+Player 2 chose PASS.
+Round 25:  Dice-['1', '1', '3']  (P1:35  P2:34)
+Player 1 PROTECTED own disc.(Row-1 Num-1)
+Player 1 CAPTURED Player 2's disc.(Row-2 Num-3)
+Player 1 chose PASS.
+Round 26:  Dice-['5', '1', '1']  (P1:38  P2:34)
+Player 2 UNPROTECTED Player 1's disc.(Row-1 Num-1)
+Player 2 CAPTURED Player 1's disc.(Row-1 Num-1)
+Player 2 chose PASS.
+Round 27:  Dice-['5', '1', '5']  (P1:38  P2:35)
+Player 1 chose PASS.
+Round 28:  Dice-['5', '2', '4']  (P1:38  P2:35)
+Player 2 CAPTURED Player 1's disc.(Row-2 Num-4)
+Player 2 chose PASS.
+Round 29:  Dice-['3', '2', '4']  (P1:38  P2:39)
+Player 1 PROTECTED own disc.(Row-1 Num-3)
+Player 1 UNPROTECTED Player 2's disc.(Row-1 Num-4)
+Player 1 chose PASS.
+Round 30:  Dice-['5', '6', '2']  (P1:38  P2:39)
+Player 2 chose PASS.
+Round 31:  Dice-['6', '1', '6']  (P1:38  P2:39)
+Player 1 chose PASS.
+Round 32:  Dice-['3', '1', '4']  (P1:38  P2:39)
+Player 2 UNPROTECTED Player 1's disc.(Row-1 Num-3)
+Player 2 PROTECTED own disc.(Row-1 Num-4)
+Player 2 chose PASS.
+Round 33:  Dice-['3', '3', '1']  (P1:38  P2:39)
+Player 1 PROTECTED own disc.(Row-1 Num-3)
+Player 1 chose PASS.
+Round 34:  Dice-['3', '5', '6']  (P1:38  P2:39)
+Player 2 UNPROTECTED Player 1's disc.(Row-1 Num-3)
+Player 2 chose PASS.
+Round 35:  Dice-['3', '3', '4']  (P1:38  P2:39)
+Player 1 PROTECTED own disc.(Row-1 Num-3)
+Player 1 UNPROTECTED Player 2's disc.(Row-1 Num-4)
+Player 1 chose PASS.
+Round 36:  Dice-['4', '2', '6']  (P1:38  P2:39)
+Player 2 PROTECTED own disc.(Row-1 Num-4)
+Player 2 chose PASS.
+Round 37:  Dice-['6', '6', '5']  (P1:38  P2:39)
+Player 1 chose PASS.
+Round 38:  Dice-['2', '2', '4']  (P1:38  P2:39)
+Player 2 chose PASS.
+Round 39:  Dice-['5', '6', '5']  (P1:38  P2:39)
+Player 1 chose PASS.
+Round 40:  Dice-['4', '4', '4']  (P1:38  P2:39)
+Player 2 chose PASS.
+Round 41:  Dice-['1', '5', '3']  (P1:38  P2:39)
+Player 1 chose PASS.
+Round 42:  Dice-['3', '4', '3']  (P1:38  P2:39)
+Player 2 UNPROTECTED Player 1's disc.(Row-1 Num-3)
+Player 2 CAPTURED Player 1's disc.(Row-1 Num-3)
+Player 1's primary row is empty.
+GAME ENDED.
+Player1: 38,  Player2: 46
+WINNER: PLAYER 2

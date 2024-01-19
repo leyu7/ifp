@@ -1,0 +1,4 @@
+Round 1:  Dice-2  (P1:4  P2:5)
+TIME'S UP. Player 1's turn finished.
+Round 2:  Dice-5  (P1:4  P2:5)
+Player 2 PROTECTED own disc.
